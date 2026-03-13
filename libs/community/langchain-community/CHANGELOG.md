@@ -1,5 +1,16 @@
 # @langchain/community
 
+## 1.1.24
+
+### Patch Changes
+
+- [#10399](https://github.com/langchain-ai/langchainjs/pull/10399) [`1edc658`](https://github.com/langchain-ai/langchainjs/commit/1edc658c927f6bb89b995f37ef5edd56301eb762) Thanks [@pawel-twardziak](https://github.com/pawel-twardziak)! - add missing AWS inference profile region prefixes (au, jp, global)
+
+- Updated dependencies [[`af9bbd3`](https://github.com/langchain-ai/langchainjs/commit/af9bbd3f48d96de8963f492ebbf75ca0762f7e57)]:
+  - @langchain/openai@1.3.0
+  - @langchain/core@1.1.33
+  - @langchain/classic@1.0.24
+
 ## 1.1.23
 
 ### Patch Changes
